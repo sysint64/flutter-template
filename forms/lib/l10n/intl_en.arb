@@ -1,0 +1,45 @@
+{
+	"@@locale": "en",
+	"@@last_modified": "2020-11-21T20:27:42.814526",
+	"validationRequiredError": "This field is required",
+	"@validationRequiredError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationNonNegativeNumberError": "Only positive numbers are allowed",
+	"@validationNonNegativeNumberError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationNonZeroNumberError": "Can't be zero",
+	"@validationNonZeroNumberError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationExactLengthError": "Length should be equal to {length}",
+	"@validationExactLengthError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationMinLengthError": "Field should have at least {length} characters",
+	"@validationMinLengthError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationWordCountError": "Field should have at least {length} words",
+	"@validationWordCountError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationLatinLowerCaseError": "Only Latin lowercase are accepted",
+	"@validationLatinLowerCaseError": {
+		"type": "text",
+		"placeholders": {}
+	}
+}

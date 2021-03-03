@@ -1,0 +1,19 @@
+name: forms
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  localized_string: ^0.1.1
+  bloc: ^6.0.1
+  flutter_bloc: ^6.0.1
+  intl:
+  intl_translation:
+  optional: ^5.0.0
+  decimal: ^0.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

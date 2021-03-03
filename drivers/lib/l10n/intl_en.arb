@@ -1,0 +1,19 @@
+{
+	"@@locale": "en",
+	"@@last_modified": "2021-01-11T20:43:30.828721",
+	"connectionError": "Connection error",
+	"@connectionError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unexpectedError": "Unexpected error",
+	"@unexpectedError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noInternetError": "No Internet connection",
+	"@noInternetError": {
+		"type": "text",
+		"placeholders": {}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"@@locale": "ru",
+	"@@last_modified": "2021-01-11T20:43:30.828721",
+	"connectionError": "Ошибка подключения",
+	"@connectionError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unexpectedError": "Непредвиденная ошибка",
+	"@unexpectedError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noInternetError": "Отсутствует подключение к сети Интернет",
+	"@noInternetError": {
+		"type": "text",
+		"placeholders": {}
+	}
+}

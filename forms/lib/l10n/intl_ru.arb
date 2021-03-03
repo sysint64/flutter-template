@@ -1,0 +1,45 @@
+{
+	"@@locale": "ru",
+	"@@last_modified": "2020-11-21T20:27:42.814526",
+	"validationRequiredError": "Данное поле является обязательным",
+	"@validationRequiredError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationNonNegativeNumberError": "Допускается использовать только положительные числа",
+	"@validationNonNegativeNumberError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationNonZeroNumberError": "Значение не может быть равным нулю",
+	"@validationNonZeroNumberError": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"validationExactLengthError": "В строке должно быть {length} символов",
+	"@validationExactLengthError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationMinLengthError": "В строке должно быть не менее {length} символов",
+	"@validationMinLengthError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationWordCountError": "В строке должно быть не менее {length} слов",
+	"@validationWordCountError": {
+		"type": "text",
+		"placeholders": {
+			"length": {}
+		}
+	},
+	"validationLatinLowerCaseError": "Допускаются только латинские строчные буквы",
+	"@validationLatinLowerCaseError": {
+		"type": "text",
+		"placeholders": {}
+	}
+}
